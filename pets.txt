@@ -2,3 +2,5 @@ Rusty
 Scout 
 Rocket 
 Chickend
+Speedie
+Mocha
